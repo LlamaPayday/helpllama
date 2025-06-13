@@ -1,0 +1,13 @@
+
+Seawave.png
+size: 776,357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sea
+  rotate: false
+  xy: 2, 2
+  size: 772, 353
+  orig: 772, 353
+  offset: 0, 0
+  index: -1

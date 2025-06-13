@@ -1,0 +1,96 @@
+
+cloud.png
+size: 1994,1617
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 174
+  size: 606, 585
+  orig: 606, 585
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 609, 65
+  size: 606, 585
+  orig: 606, 585
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1, 761
+  size: 635, 443
+  orig: 635, 443
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1035, 1201
+  size: 477, 415
+  orig: 477, 415
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 1210
+  size: 421, 406
+  orig: 421, 406
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1210, 624
+  size: 527, 570
+  orig: 527, 570
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1196, 1
+  size: 621, 709
+  orig: 621, 709
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1514, 1153
+  size: 463, 479
+  orig: 463, 479
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 638, 673
+  size: 526, 570
+  orig: 526, 570
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 424, 1206
+  size: 609, 410
+  orig: 609, 410
+  offset: 0, 0
+  index: -1
+
+cloud2.png
+size: 1403,737
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: true
+  xy: 742, 1
+  size: 735, 660
+  orig: 735, 660
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 1, 1
+  size: 735, 739
+  orig: 735, 739
+  offset: 0, 0
+  index: -1

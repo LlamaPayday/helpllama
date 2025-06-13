@@ -1,0 +1,118 @@
+
+cuttlefish.png
+size: 206,355
+format: RGBA8888
+filter: Nearest,MipMap
+repeat: none
+arrow
+  rotate: false
+  xy: 1, 5
+  size: 56, 71
+  orig: 56, 71
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1, 259
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 1, 78
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+body1_Red
+  rotate: false
+  xy: 80, 175
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+body1_yellow
+  rotate: false
+  xy: 85, 91
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+body_Red
+  rotate: false
+  xy: 1, 162
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+body_yellow
+  rotate: false
+  xy: 80, 259
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 159, 277
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+eye_Red
+  rotate: true
+  xy: 164, 198
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+eye_yellow
+  rotate: false
+  xy: 85, 50
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+tentacle
+  rotate: false
+  xy: 59, 1
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+tentacle1
+  rotate: true
+  xy: 169, 144
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+tentacle1_Red
+  rotate: true
+  xy: 169, 90
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+tentacle1_yellow
+  rotate: true
+  xy: 167, 36
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+tentacle_Red
+  rotate: false
+  xy: 95, 1
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+tentacle_yellow
+  rotate: false
+  xy: 131, 1
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
